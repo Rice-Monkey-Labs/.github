@@ -14,18 +14,16 @@
 
 > Rice Monkey Labs는 게임, 마인크래프트 서버를 중심으로 재미와 수익의 가능성을 탐구하는 개발 집단입니다.
 
-## 🛠️ What We Build & Explore
+## 🛠️ 뭘 만드나요?
 
 - **Games:** 직접 즐기고 싶은 게임을 만들고, 수익화 방법을 실험합니다.
 - **Minecraft:** 서버를 기획하고, 플러그인과 콘텐츠를 개발합니다.
 
----
-
-## 🍚 Our Philosophy
+## 🍚 목표
 
 적게 일하고, 재밌게 만들고, 많이 벌고 싶습니다.
 인생을 날로 먹고 싶습니다.
 
 ---
 
-**Contact:** ricemonkeylabs@gmail.com
+**Contact:** [ricemonkeylabs@gmail.com](mailto:ricemonkeylabs@gmail.com)
