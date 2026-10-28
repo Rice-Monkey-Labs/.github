@@ -5,5 +5,6 @@
 
 # Rice Monkey Labs
 
+**Less work. More fun. More profit.**
 </div>
 
