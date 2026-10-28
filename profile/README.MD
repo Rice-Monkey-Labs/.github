@@ -11,3 +11,4 @@
 </p>
 
 <hr>
+**Contact:** `ricemonkeylabs@gmail.com`
