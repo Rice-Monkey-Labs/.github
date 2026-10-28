@@ -1,7 +1,13 @@
-<div align="center">
+<h1 align="center">Rice Monkey Labs</h1>
+
+<p align="center">
   <img src="./assets/icon.png" alt="Rice Monkey Labs" width="160">
-  <h1>Rice Monkey Labs</h1>
-  <p><strong>적은 노력과 재미로 얻는 최대의 이득</strong></p>
-</div>
+</p>
+
+<p align="center">
+  <strong>Less work. More fun. More profit.</strong>
+  <br>
+  <sub>적은 노력과 재미있는 시도로 최대의 수익을 추구합니다.</sub>
+</p>
 
 <hr>
